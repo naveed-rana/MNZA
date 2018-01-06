@@ -1,0 +1,26 @@
+useful websites
+github
+bitbuket
+
+
+
+
+
+
+
+git (to check git version/install)
+git init (to start git)
+git status (to check status)
+git add "file name"(for all file git add -A)
+git commit -m "your message you want to show otherr person"
+
+if you run git first time :
+git config user.name "your name"
+git config user.email "email"
+
+git remote add origin url (to attache a group on github)
+
+git remote
+
+git push origin
+git pull origin --allow-unrelated-histories (to pull previous work)
