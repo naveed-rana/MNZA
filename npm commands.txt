@@ -19,6 +19,7 @@ npm install react-validation -save
 npm install style-loader -save
 npm install url-loader
 
+add line from navee-rana
 
 
 webpack (run)
